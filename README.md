@@ -14,4 +14,4 @@ Open a new file and you will see number appearing. this method is much advisable
 
 # Adding configuration into init.vim file
 
-Adding a new config
+Adding a new config IS A EAZY WAY
