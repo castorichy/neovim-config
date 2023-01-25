@@ -13,3 +13,5 @@ The second method is by creating a vim file inside .config/nvim directory. After
 Open a new file and you will see number appearing. this method is much advisable since command mode is used only when its open.
 
 # Adding configuration into init.vim file
+
+Adding a new config
